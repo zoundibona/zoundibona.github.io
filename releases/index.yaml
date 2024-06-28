@@ -3,7 +3,7 @@ entries:
   pack:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-28T10:35:51.6349725+01:00"
+    created: "2024-06-28T10:46:33.9377424+01:00"
     description: A Helm chart for Kubernetes
     digest: f51920fd3724ab901e208120e982c178c48103e0bf5e1604c41d8f36b7c7505e
     name: pack
@@ -13,7 +13,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-28T10:35:51.6340288+01:00"
+    created: "2024-06-28T10:46:33.9371936+01:00"
     description: A Helm chart for Kubernetes
     digest: ee63d56bb1a4acbfe36dc6e60c30015721b9d0440cadeedcc9eb8b59981305e8
     name: pack
@@ -21,4 +21,15 @@ entries:
     urls:
     - https://zoundibona.github.io/releases/pack-0.1.3.tgz
     version: 0.1.3
-generated: "2024-06-28T10:35:51.6340288+01:00"
+  pack1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-28T10:46:33.9377424+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c53fbb4bf0739a5f056a118c153721e55a605b699158051868fdd2174a1e2dc
+    name: pack1
+    type: application
+    urls:
+    - https://zoundibona.github.io/releases/pack1-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-28T10:46:33.9366888+01:00"
